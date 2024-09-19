@@ -1,3 +1,10 @@
+// Galih Aditya Fernanda - 21120122120031
+// RB Ramzi Akbar A.P.D - 21120122140087
+// Nalendra Faraz Putra R - 21120122140098
+// Muhammad Erdin Ilham F - 21120122140131
+// Raka Eldiansyah Putra - 21120122140150
+// Muhammad Dandy Prasetya - 21120122140145
+
 // Single Responsibility Principle (SRP)
 // Setiap kelas hanya bertanggung jawab untuk satu hal, entah menghitung bangun datar atau bangun ruang.
 
